@@ -33,8 +33,6 @@
 <img width="881" height="221" alt="image" src="https://github.com/user-attachments/assets/1fa1eeeb-b173-4efd-adc8-3c1d58cb158e" />
 
 - 添加指令：审计当前接口（类似皆可）
-<img width="735" height="120" alt="image" src="https://github.com/user-attachments/assets/4b98ac4c-41f8-4c30-a747-7ec45713ea5c" />
-
 - 回车，即可开始审计。
 - 但是需要注意，在进行追踪调用链后，如果业务流程较长，可能需要手动确认是否继续追踪其它调用链，本skill默认仅往下追踪5层。
 
